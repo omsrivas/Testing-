@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import heroCakeImg from "@assets/E56E6210-1DF6-4EEB-888C-7728295B57F2_1780689461760.png";
-import heroCakeMobileImg from "@assets/IMG_0534_1780711301507.PNG";
+import heroCakeMobileImg from "@assets/IMG_0534_1780711301507.png";
 
 const EASE = [0.22, 1, 0.36, 1] as const;
 
